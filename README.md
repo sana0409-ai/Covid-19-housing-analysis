@@ -29,6 +29,17 @@ https://public.tableau.com/app/profile/sana.ambreen/viz/Coviddashboard_176739308
 - Outlier detection and normalization
 - Multiple Linear Regression (OLS) to quantify relationships
 - Model evaluation using R², RMSE, MAE, and residual diagnostics
+  ##  Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
+- Jupyter Notebook
+- Tableau Public
+- Public economic & health datasets
+
+##  Key Insights
+- States with lower policy stringency generally experienced faster housing price growth
+- Low mortgage interest rates played a major role in sustaining demand
+- High unemployment and rising rates slowed growth in later phases
+- Migration patterns amplified suburban and Sunbelt housing demand
 
 The regression results show statistically significant relationships between housing price growth and policy stringency, interest rates, unemployment, GDP growth, and COVID severity.
 
